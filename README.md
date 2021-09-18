@@ -25,3 +25,11 @@ https://speakerdeck.com/nanashiki/iosdc-2021
 - ホームからログアウトして再度ログインするテスト
 - メッセージを投稿するテスト
 - メッセージにスターをつけるテスト
+
+## Xcode Scheme
+
+- MiniSNS (Mock): MockAPIで起動するSchemeです
+- MiniSNS: 実際のサーバと通信するSchemeです。現在は https://example.com との通信になっているので動きません
+
+<img width="184" alt="スクリーンショット 2021-09-18 17 56 02" src="https://user-images.githubusercontent.com/15953027/133883204-76995f33-664a-4b9c-a136-394f9bc95470.png">
+
